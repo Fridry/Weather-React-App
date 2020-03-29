@@ -1,5 +1,6 @@
 # Weather React App
-### Aplicativo web desenvolvido utilizando:
+### Aplicativo web para visualização do clima de uma cidade a escolha do usuário.
+## Desenvolvido utilizando:
 * React;
 * Axios;
 * OpenWeather API;
